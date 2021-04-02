@@ -1,0 +1,16 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Season",
+      "value" : "Summer '21"
+    }, {
+      "trait_type" : "Style",
+      "value" : "XYZ"
+    },
+    {
+      "trait_type" : "Size",
+      "value" : "Medium"
+      } ],
+    "description" : "Black Two-Piece.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmbEcgmSsNpsxVz3rTr6egWUMGzcdHNSQ7ADD8gUmQvoer",
+    "name" : "Noushii"
+}
